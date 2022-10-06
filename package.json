@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk-v2": "^1.0.2",
+    "discord.js": "^14.0.3",
+    "ms": "^2.1.3"
+  },
+  "name": "javascript.info-bot-temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "format": "deno fmt"
+  },
+  "description": ""
+}
